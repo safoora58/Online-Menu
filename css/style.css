@@ -1040,14 +1040,13 @@ img {
   .menu-box img {
     width: 55px;
     height: 55px;
-    margin-bottom: 12px;
     margin-top: 10px;
-
   }
 
   .title {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: bold;
+    margin-bottom: 4px;
   }
 
   #container-title-category {
@@ -1258,7 +1257,7 @@ img {
   .p-category {
     width: 40%;
     height: 30px;
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .tel {
@@ -1291,7 +1290,7 @@ img {
   .item-nav {
     width: 100px;
     height: 90px;
-    margin-left: 20px;
+    margin-left: 10px;
   }
 
   .menu-box {
@@ -1303,11 +1302,15 @@ img {
     height: 45px;
     margin-bottom: 12px;
     margin-top: 10px;
+    margin-left: 10px;
   }
 
   .title {
     font-size: 12px;
     font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 8px;
+
   }
 
   .containet-title {
@@ -1486,7 +1489,7 @@ img {
   .p-category {
     width: 39%;
     height: 28px;
-    font-size: 10px;
+    font-size: 9px;
   }
 
   .tel {
@@ -1532,7 +1535,7 @@ img {
   .menu-box img {
     width: 35px;
     height: 35px;
-    margin-left: 28px;
+    margin-left: 10px;
   }
 
   .menu-box:hover {
@@ -1540,9 +1543,9 @@ img {
   }
 
   .title {
-    font-size: 11px;
+    font-size: 10px;
     font-weight: bold;
-    margin-left: 20px;
+    margin-right: 5px;
   }
 
   .containet-title {
