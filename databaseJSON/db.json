@@ -2,32 +2,32 @@
   "category": [
     {
       "id": 1,
-      "imgName": "hot-drink_2387020.png",
+      "imgName": "hot.png",
       "title": "نوشیدنی های گرم"
     },
     {
       "id": 2,
-      "imgName": "ice-cream_938012.png",
+      "imgName": "ICE.png",
       "title": "نوشیدنی های سرد"
     },
     {
       "id": 3,
-      "imgName": "tea.png",
+      "imgName": "TEA2.png",
       "title": "چای و دمنوش  "
     },
     {
       "id": 4,
-      "imgName": "smoothies_.png",
+      "imgName": "smootie.png",
       "title": "فراپه و اسموتی "
     },
     {
       "id": 5,
-      "imgName": "cake.png",
+      "imgName": "cake..png",
       "title": "کیک و دسر "
     },
     {
       "id": 6,
-      "imgName": "mocktail.png",
+      "imgName": "cuba.png",
       "title": "ماکتیل "
     }
   ],

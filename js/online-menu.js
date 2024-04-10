@@ -30,7 +30,7 @@ let category = []
 
 // category = [
 //     { id: 1, title: "نوشیدنی های گرم", imgName: "hot-drink_2387020.png" },
-//     { id: 2, title: "نوشیدنی های سرد", imgName: "ice-cream_938012.png" },
+//     { id: 2, title: "نوشیدنی های سرد", imgName: "ICE.png" },
 //     { id: 3, title: "چای و دمنوش  ", imgName: "tea.png" },
 //     { id: 4, title: "فراپه و اسموتی ", imgName: "smoothies_.png" },
 //     { id: 5, title: "کیک و دسر ", imgName: "cake.png" },
