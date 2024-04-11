@@ -309,7 +309,7 @@ function displayMainProducts() {
     category.forEach(cat => {
         const tagCat = `
         <div id="container-title-category">
-          <h3>
+          <h3> 
           <a href="" id="cat-${cat.id}"></a>
            ${cat.title} 
            </h3>

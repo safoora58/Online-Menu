@@ -286,6 +286,10 @@ h3 {
   font-weight: bold;
 }
 
+.line img{
+  width: 40%;
+  height: 10px;
+}
 .main {
   width: 100%;
   padding: 5%;
@@ -306,14 +310,24 @@ h3 {
 
 #container-title-category {
   width: 100%;
+  height: 60px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   color: var(--clr-title);
-  font-size: 20px;
+  font-size: 23px;
   cursor: pointer;
+  
+}
+
+#container-title-category h3{
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 1),
+  -1px -1px 6px rgba(255, 255, 255, 0.4);
+  border-radius: 10px;
+  width: 40%;
+  text-align: center;
 }
 
 .container-Beverages {
@@ -322,6 +336,7 @@ h3 {
   position: relative;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
+
 }
 
 .Beverage {
@@ -395,6 +410,9 @@ h3 {
 }
 
 .add {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 80px;
   height: 30px;
   background-color: transparent;
@@ -403,7 +421,6 @@ h3 {
   border-radius: 30px;
   font-size: 16px;
   font-family: gandom;
-  box-shadow: 0px 3px 0px rgb(163, 23, 23);
   transition: all 0.7s ease-in-out;
   cursor: pointer;
 }
@@ -1059,9 +1076,11 @@ img {
 
   #container-title-category {
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 19px;
   }
-
+  #container-title-category h3{
+    width: 60%;
+  }
   .container-Beverages {
     width: 95%;
     height: 137px;
@@ -1147,7 +1166,7 @@ img {
     position: absolute;
     margin-top: -240px;
   }
-
+  
   .container-modal-theme {
     width: 32px;
     height: 70px;
@@ -1259,9 +1278,11 @@ img {
 
   #container-title-category {
     margin-bottom: 18px;
-    font-size: 14px;
+    font-size: 18px;
   }
-
+  #container-title-category h3{
+    width: 55%;
+  }
   .p-category {
     width: 40%;
     height: 30px;
@@ -1491,9 +1512,11 @@ img {
 
   #container-title-category {
     margin-bottom: 18px;
-    font-size: 14px;
+    font-size: 17px;
   }
-
+  #container-title-category h3{
+    width: 55%;
+  }
   .p-category {
     width: 39%;
     height: 28px;
