@@ -1422,7 +1422,7 @@ img {
     margin-left: 15%;
   }
   #logo p {
-    font-size: 15px;
+    font-size: 13px;
   }
   .container-modal {
     width: 230px;
@@ -1510,7 +1510,7 @@ img {
   }
 
   .header {
-    height: 100px;
+    height: 80px;
   }
 
   .Beverage-title {
@@ -1538,9 +1538,9 @@ img {
   }
 
   .tel {
-    width: 26%;
+    width: 27%;
     height: 36px;
-    font-size: 9px;
+    font-size: 8px;
   }
 
   .tel img {
