@@ -524,5 +524,3 @@ displayCategory.addEventListener('click', showCategoryModal);
 
 
 
-
-
